@@ -1,3 +1,4 @@
+# rename this to settings.yaml
 client_config_backend: settings
 client_config:
   client_id: your-google-drive-api-client-id
