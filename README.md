@@ -1,2 +1,3 @@
-# 2048-bot
-A bot that plays 2048 from facebook post reactions
+# 2048 Bot
+A bot that plays 2048 from Facebook post reactions
+https://www.facebook.com/2048bot/
