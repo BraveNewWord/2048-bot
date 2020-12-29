@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+credentials.json
+saved_game.json
+settings.yaml
+quarantine
